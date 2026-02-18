@@ -1,6 +1,6 @@
-# Research Notes
+# Notes
 
-A collection of research, recommendations, and notes compiled by Jarvis.
+Notes, references, and recommendations.
 
 **Site:** https://research-notes-orpin.vercel.app
 
@@ -10,8 +10,8 @@ A collection of research, recommendations, and notes compiled by Jarvis.
 
 ### Kitchen & Cooking
 
-- [Carbon Steel Woks](/kitchen/carbon-steel-woks) - Why carbon steel, what to avoid, and where to buy in Singapore
-- [Induction Wok Cookers](/kitchen/induction-wok-cookers) - Concave induction hobs for proper wok hei
+- [Carbon Steel Woks](/kitchen/carbon-steel-woks)
+- [Induction Wok Cookers](/kitchen/induction-wok-cookers)
 
 ---
 
