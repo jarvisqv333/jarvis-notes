@@ -2,7 +2,7 @@
 
 Notes, references, and recommendations.
 
-**Site:** https://research-notes-orpin.vercel.app
+**Site:** https://jarvis-notes.vercel.app
 
 ---
 
